@@ -14,8 +14,6 @@ total = 0
   end
 
 end
-"QQQQQQQQ".scrabble()
-
 
 
 
